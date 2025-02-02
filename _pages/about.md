@@ -32,7 +32,7 @@ My research interests include:
 
 **PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides**
 
-Hao Zheng, **Xinyan Guan**, Hao Kong, Jia Zheng, Hongyu Lin, Yaojie Lu, B He, Xianpei Han, Le Sun  
+Hao Zheng, **Xinyan Guan**$^*$, Hao Kong, Jia Zheng, Hongyu Lin, Yaojie Lu, B He, Xianpei Han, Le Sun  
 *arXiv preprint arXiv:2501.03936*  
 [Paper](https://arxiv.org/abs/2501.03936)/ [Code](https://github.com/icip-cas/PPTAgent)
 
