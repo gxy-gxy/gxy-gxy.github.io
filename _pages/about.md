@@ -53,3 +53,13 @@ My research interests include:
   Zhaochen Su, Zecheng Tang, **Xinyan Guan**, Juntao Li, Lijun Wu, Min Zhang  
   *Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*  
   [[Paper]](https://arxiv.org/abs/2210.17127)
+
+
+## Frequent Collaborators  
+
+I closely collaborate with the following researchers:
+
+- [Yanjiang Liu](https://scholar.google.com/citations?user=3W1-QaMAAAAJ&hl=zh-CN) (Chinese Information Processing Laboratory, ISCAS)
+- [Chunlei Xin](https://aclanthology.org/people/c/chunlei-xin/) (Chinese Information Processing Laboratory, ISCAS)
+- [Hongyu Lin](https://scholar.google.com/citations?hl=zh-CN&user=mu5lLakAAAAJ) (Chinese Information Processing Laboratory, ISCAS)
+
