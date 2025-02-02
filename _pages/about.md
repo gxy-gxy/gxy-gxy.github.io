@@ -55,6 +55,17 @@ My research interests include:
   [[Paper]](https://arxiv.org/abs/2210.17127)
 
 
+## Internship Experience  
+
+- **Research Intern at Tencent, WeChat AI** *(Aug. 2024 – Present)*  
+  - Conducting research on **Retrieval-Augmented Generation (RAG)** for improving language model effectiveness and efficiency. 
+
+- **Research Intern at Xiaohongshu Inc.** *(Nov. 2023 – Jul. 2024)*  
+  - Researched **supervised fine-tuning data quality and diversity** to enhance model performance.  
+  - Developed and optimized the **Megatron alignment algorithm** for large language models.  
+
+
+
 ## Frequent Collaborators  
 
 I closely collaborate with the following researchers:
