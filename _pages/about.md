@@ -68,7 +68,8 @@ My research interests include:
 
 ## Frequent Collaborators  
 
-Recently, I closely collaborate with the following researchers:
+Recently, I closely collaborate with the following researchers and sincerely appreciate their **comprehensive guidance and insightful discussions**, which have greatly contributed to my research!
+
 
 - [Yanjiang Liu](https://scholar.google.com/citations?user=3W1-QaMAAAAJ&hl=zh-CN) (Chinese Information Processing Laboratory, ISCAS)
 - [Chunlei Xin](https://aclanthology.org/people/c/chunlei-xin/) (Chinese Information Processing Laboratory, ISCAS)
