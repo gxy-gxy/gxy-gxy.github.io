@@ -11,9 +11,9 @@ I am a Ph.D. Candidate (from 2023.09) in the Chinese Information Processing Labo
 
 My research interests include:
 
-LLM Hallucination
-Retrieval-Augmented Generation
-Knowledge Graph
+* LLM Hallucination
+* Retrieval-Augmented Generation
+* Knowledge Graph
 
 
 # Publications
