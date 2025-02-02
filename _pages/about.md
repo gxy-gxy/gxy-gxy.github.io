@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate (from 2023.09) in the Chinese Information Processing Laboratory at the Institute of Software, Chinese Academy of Sciences, under the Supervision of Professor Xianpei Han.
+I am a Ph.D. Candidate (from 2023.09) in the Chinese Information Processing Laboratory at the Institute of Software, Chinese Academy of Sciences, under the supervision of Professor Xianpei Han.
 
 My research interests include:
 
