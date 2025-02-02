@@ -57,7 +57,7 @@ My research interests include:
 
 ## Internship Experience  
 
-- **Research Intern at Tencent, WeChat AI** *(Aug. 2024 – Present)*  
+- **Research Intern at Tencent, WeChat AI.** *(Aug. 2024 – Present)*  
   - Conducting research on **Retrieval-Augmented Generation (RAG)** for improving language model effectiveness and efficiency. 
 
 - **Research Intern at Xiaohongshu Inc.** *(Nov. 2023 – Jul. 2024)*  
