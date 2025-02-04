@@ -20,6 +20,11 @@ My research interests include:
 
 ## 2025
 
+- **DeepRAG: Thinking to Retrieval Step by Step for Large Language Models**  
+  **Xinyan Guan**, Jiali Zeng, Fandong Meng, Chunlei Xin, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Jie Zhou  
+  *arXiv preprint*  
+  [[Paper]](https://arxiv.org/abs/2502.01142)
+
 - **PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides**  
   Hao Zheng, **Xinyan Guan**\*, Hao Kong, Jia Zheng, Hongyu Lin, Yaojie Lu, Ben He, Xianpei Han, Le Sun  
   *arXiv preprint arXiv:2501.03936*  
